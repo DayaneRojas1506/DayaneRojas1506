@@ -5,4 +5,3 @@
 - 🤔 I’m looking for help with GITHUB xd
 - 🎶 https://open.spotify.com/playlist/3NySyMosfcn1xF4ilsHMnN
 - 📫 How to reach me: brigitte.rojas@utec.edu.pe
-![Uploading aaaaaaaaaaaaa.jpg…]()
