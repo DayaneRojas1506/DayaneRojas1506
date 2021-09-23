@@ -1,6 +1,6 @@
 ### Hi people 👋
 
-- 🔭 Studying in UTEC
+- 🔭 Study in UTEC
 - 🌱 I’m currently learning programming
 - 👯 I’m looking to collaborate on the university
 - 🤔 I’m looking for help with python
