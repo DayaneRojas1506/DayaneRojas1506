@@ -1,5 +1,5 @@
-### Hi, I am Brigitte
---- ![image](https://user-images.githubusercontent.com/91268793/137353751-8d320264-e4e9-4476-bfa5-374b1434b965.png)
+### Hello
+![image](https://www.mtu.edu/cs/what/images/what-is-computer-science-banner1600.jpg)
   
 ---
 - 🔭 Study in UTEC,  LIMA
