@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 Hi Soy Brigitte, una estudiante apasionada de Ciencias de la Computación con una fuerte inclinación hacia desarrollo web, inteligencia artificial y más. Amo aprender y me gustan los retos, me gusta escuchar música y amo el café <3
 
 
 ## 🌐 Socials:
