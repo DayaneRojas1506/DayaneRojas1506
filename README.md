@@ -1,4 +1,5 @@
-![Texto alternativo](https://es.pinterest.com/pin/4996249581937241/)
+![Mi GIF](https://media.giphy.com/media/3o6Zt8zXgybL97o4kc/giphy.gif)
+
 
 
 # 💫 About Me:
